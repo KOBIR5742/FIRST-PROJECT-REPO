@@ -1,0 +1,24 @@
+.p{
+    background-color: aquamarine;
+    margin:10px 10px 30px 10px;
+    border-radius: 10px;
+    box-shadow:10px 10px 15px rgb(235, 89, 235); 
+    padding: 10px 12px 15px 20px;   
+}
+h2{
+    font-style:italic;
+    color:rgb(20, 17, 218);
+    font-size: larger;
+    text-align: center;
+}
+h3{
+    text-align:center;
+    size:larger;
+}
+div{
+    background-color:rgb(181, 235, 34); 
+    padding:10px;
+}
+img{
+    border:2px solid;
+}
